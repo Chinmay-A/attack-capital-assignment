@@ -16,7 +16,7 @@ To set up the project, follow these steps:
      POSTGRES_PASSWORD=database_password
      POSTGRES_HOST=localhost
      POSTGRES_PORT=5432
-     AUTH_SECRET=secret_key_for_bcrypt
+     AUTH_SECRET=secret_key_for_jwt
      ```
    - Install dependencies:
      ```
