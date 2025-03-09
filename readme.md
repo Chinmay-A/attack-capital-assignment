@@ -24,7 +24,7 @@ To set up the project, follow these steps:
      ```
    - Run the database migration script to create the necessary tables:
      ```
-     node createTables.js
+     node create_tables.js
      ```
    - Start the backend server:
      ```
